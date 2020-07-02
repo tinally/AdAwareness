@@ -1,0 +1,267 @@
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+nlp_directory: data://irisong980912/Dyson Vacuum Cleaner Commercial
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+image_file: data://irisong980912/nlp_directory/Thumb001
+YES
+data://irisong980912/nlp_directory/Thumb001
+{'confidence': 1, 'nude': False, 'url': 'data://irisong980912/nlp_directory/Thumb001'}
+yes
+image_file: data://irisong980912/nlp_directory/Thumb002
+YES
+data://irisong980912/nlp_directory/Thumb002
+{'confidence': 0.9968027678900396, 'nude': True, 'url': 'data://irisong980912/nlp_directory/Thumb002'}
+yes
+image_file: data://irisong980912/nlp_directory/Thumb003
+YES
+data://irisong980912/nlp_directory/Thumb003
+{'confidence': 0.7281728314424981, 'nude': False, 'url': 'data://irisong980912/nlp_directory/Thumb003'}
+yes
+image_file: data://irisong980912/nlp_directory/Thumb004
+YES
+data://irisong980912/nlp_directory/Thumb004
+{'confidence': 0.4144872941054928, 'nude': False, 'url': 'data://irisong980912/nlp_directory/Thumb004'}
+yes
+image_file: data://irisong980912/nlp_directory/Thumb005
+YES
+data://irisong980912/nlp_directory/Thumb005
+{'confidence': 0.03948577419141658, 'nude': False, 'url': 'data://irisong980912/nlp_directory/Thumb005'}
+yes
+image_file: data://irisong980912/nlp_directory/Thumb006
+YES
+data://irisong980912/nlp_directory/Thumb006
+{'confidence': 0.0009913471090840509, 'nude': True, 'url': 'data://irisong980912/nlp_directory/Thumb006'}
+yes
+image_file: data://irisong980912/nlp_directory/Thumb007
+YES
+data://irisong980912/nlp_directory/Thumb007
+{'confidence': 0.35999367900221846, 'nude': False, 'url': 'data://irisong980912/nlp_directory/Thumb007'}
+yes
+image_file: data://irisong980912/nlp_directory/Thumb008
+YES
+data://irisong980912/nlp_directory/Thumb008
+{'confidence': 0.7388348208041862, 'nude': False, 'url': 'data://irisong980912/nlp_directory/Thumb008'}
+yes
+image_file: data://irisong980912/nlp_directory/Thumb009
+YES
+data://irisong980912/nlp_directory/Thumb009
+{'confidence': 1, 'nude': False, 'url': 'data://irisong980912/nlp_directory/Thumb009'}
+yes
+image_file: data://irisong980912/folder_space/Thumb010
+yes
+image_file: data://irisong980912/folder_space/Thumb011
+yes
+image_file: data://irisong980912/folder_space/Thumb012
+yes
+image_file: data://irisong980912/folder_space/Thumb013
+yes
+image_file: data://irisong980912/folder_space/Thumb014
+yes
+image_file: data://irisong980912/folder_space/Thumb015
+yes
+image_file: data://irisong980912/folder_space/Thumb016
+yes
+image_file: data://irisong980912/folder_space/Thumb017
+yes
+image_file: data://irisong980912/folder_space/Thumb018
+yes
+image_file: data://irisong980912/folder_space/Thumb019
+yes
+image_file: data://irisong980912/folder_space/Thumb020
+yes
+image_file: data://irisong980912/folder_space/Thumb021
+yes
+image_file: data://irisong980912/folder_space/Thumb022
+yes
+image_file: data://irisong980912/folder_space/Thumb023
+yes
+image_file: data://irisong980912/folder_space/Thumb024
+yes
+image_file: data://irisong980912/folder_space/Thumb001
+yes
+image_file: data://irisong980912/folder_space/Thumb002
+yes
+image_file: data://irisong980912/folder_space/Thumb003
+yes
+image_file: data://irisong980912/folder_space/Thumb004
+yes
+image_file: data://irisong980912/folder_space/Thumb005
+yes
+image_file: data://irisong980912/folder_space/Thumb006
+yes
+image_file: data://irisong980912/folder_space/Thumb007
+yes
+image_file: data://irisong980912/folder_space/Thumb008
+yes
+image_file: data://irisong980912/folder_space/Thumb009
+yes
+image_file: data://irisong980912/folder_space/Thumb010
+yes
+image_file: data://irisong980912/folder_space/Thumb011
+yes
+image_file: data://irisong980912/folder_space/Thumb012
+yes
+image_file: data://irisong980912/folder_space/Thumb013
+yes
+image_file: data://irisong980912/folder_space/Thumb014
+yes
+image_file: data://irisong980912/folder_space/Thumb015
+yes
+image_file: data://irisong980912/folder_space/Thumb016
+yes
+image_file: data://irisong980912/folder_space/Thumb017
+yes
+image_file: data://irisong980912/folder_space/Thumb018
+yes
+image_file: data://irisong980912/folder_space/Thumb019
+yes
+image_file: data://irisong980912/folder_space/Thumb020
+yes
+image_file: data://irisong980912/folder_space/Thumb021
+yes
+image_file: data://irisong980912/folder_space/Thumb022
+yes
+image_file: data://irisong980912/folder_space/Thumb023
+yes
+image_file: data://irisong980912/folder_space/Thumb024

@@ -1,0 +1,24 @@
+{'output': {'detections': [], 'nsfw_score': 0.03664267435669899}, 'id': '77fcc926-257f-40ad-b968-d872db71fea3'}
+{'output': {'detections': [], 'nsfw_score': 0.05723162367939949}, 'id': '1cced348-b504-4cd0-bcb4-39ee95dd71ba'}
+{'output': {'detections': [], 'nsfw_score': 0.01563326269388199}, 'id': '048eebf7-3261-42f7-9a8c-c03a195e062f'}
+{'output': {'detections': [{'confidence': '0.78', 'bounding_box': [286, 174, 45, 52], 'name': 'Female Breast - Covered'}, {'confidence': '0.98', 'bounding_box': [324, 157, 62, 62], 'name': 'Female Breast - Covered'}], 'nsfw_score': 0.16820986568927765}, 'id': 'd9c1add6-e952-4ce0-9b6b-3fce6a08b4b1'}
+{'output': {'detections': [{'confidence': '0.86', 'bounding_box': [295, 155, 66, 60], 'name': 'Female Breast - Covered'}], 'nsfw_score': 0.05636134371161461}, 'id': 'd8b12990-a011-4815-9505-089e97c7c252'}
+{'output': {'detections': [{'confidence': '0.76', 'bounding_box': [185, 193, 60, 51], 'name': 'Female Breast - Covered'}], 'nsfw_score': 0.0478186309337616}, 'id': '9f73e5ad-512d-4c2d-9488-03d6ac3828d3'}
+{'output': {'detections': [], 'nsfw_score': 0.016289452090859413}, 'id': 'aff0a84b-158e-445e-94a0-714781cb17d3'}
+{'output': {'detections': [], 'nsfw_score': 0.061652738600969315}, 'id': '9b54e06d-0691-488d-b0b5-364b7ab4c39f'}
+{'output': {'detections': [], 'nsfw_score': 0.012606381438672543}, 'id': 'b6cb2603-0707-487d-8967-16b5eabcaaff'}
+{'output': {'detections': [], 'nsfw_score': 0.0148006621748209}, 'id': '32729190-2395-4ff6-84dc-606827b1635a'}
+{'output': {'detections': [], 'nsfw_score': 0.004469523672014475}, 'id': '2a550d04-2567-469d-9269-275796751fe6'}
+{'output': {'detections': [], 'nsfw_score': 0.007710076868534088}, 'id': '18eabd4a-5ba1-4c74-8e60-7e477c9d2514'}
+{'output': {'detections': [], 'nsfw_score': 0.07042303681373596}, 'id': '17101dd6-82d5-4d1f-b797-652a53f5b8a3'}
+{'output': {'detections': [], 'nsfw_score': 0.006804849952459335}, 'id': '895c5e2c-e3d8-46de-8970-9f464cfe9afc'}
+{'output': {'detections': [], 'nsfw_score': 0.02093883790075779}, 'id': 'fb71672a-d066-4aff-9d88-663c674a7780'}
+{'output': {'detections': [], 'nsfw_score': 0.2843121886253357}, 'id': '95511d12-138d-48e0-baa9-063c2a5d9131'}
+{'output': {'detections': [], 'nsfw_score': 0.3242616355419159}, 'id': 'fdb531bc-4392-4cdf-8889-e84077a43c5c'}
+{'output': {'detections': [], 'nsfw_score': 0.20836776494979858}, 'id': 'e73f7eb6-7c97-485b-9ec4-082e8a541658'}
+{'output': {'detections': [], 'nsfw_score': 0.06758802384138107}, 'id': 'f7ee23df-cbd9-44b5-b6e9-128566f935b2'}
+{'output': {'detections': [], 'nsfw_score': 0.09266523271799088}, 'id': 'c94c8bd8-1f6b-4811-b545-69a2e37f10cc'}
+{'output': {'detections': [], 'nsfw_score': 0.11166775971651077}, 'id': '96dcc69f-e44f-47c9-a855-c73761eb6295'}
+{'output': {'detections': [], 'nsfw_score': 0.3810296058654785}, 'id': '860078dc-3fbc-4bc1-b000-7042c72cda67'}
+{'output': {'detections': [], 'nsfw_score': 0.02784413844347}, 'id': '5a76a28e-df44-42d0-a39a-0cc36d981ff9'}
+{'output': {'detections': [], 'nsfw_score': 0.006311367731541395}, 'id': '3555a361-7fa5-4b17-85e7-8f6cee0ef4a7'}
